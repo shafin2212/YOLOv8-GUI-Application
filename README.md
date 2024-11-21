@@ -143,23 +143,4 @@ To contribute:
 
 ---
 
- License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project with attribution.
-
----
-
- Acknowledgments
-- YOLOv8 Framework: For providing a state-of-the-art object detection solution.
-- PyQt5 Community: For making GUI development accessible and efficient.
-- OpenAI Assistance: For facilitating the creation of this README and application.
-
----
-
-If you have any issues or suggestions, feel free to open an issue on GitHub.
-
-```
-
----
-
-Simply replace placeholder texts like `<your-username>` and `<repository-name>` with your GitHub username and repository name respectively. This will serve as a comprehensive and clear guide for anyone using or contributing to your project.
+ 
