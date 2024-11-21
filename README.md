@@ -87,10 +87,12 @@ project-folder/
  Screenshots
 
  Main GUI Interface
-![Main GUI](screenshots/gui_interface.png)
+![Main GUI](![image](https://github.com/user-attachments/assets/dfba851f-953d-4bbc-8771-d9e88368ac04)
+)
 
  Object Detection Results
-![Detection Results](screenshots/detection_results.png)
+![Detection Results](![image](https://github.com/user-attachments/assets/55ee3037-cdf2-4c80-999f-6beaf725031f)
+)
 
 ---
 
